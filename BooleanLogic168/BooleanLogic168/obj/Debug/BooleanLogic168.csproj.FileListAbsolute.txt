@@ -1,0 +1,7 @@
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\BooleanLogic168\BooleanLogic168\bin\Debug\BooleanLogic168.exe.config
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\BooleanLogic168\BooleanLogic168\bin\Debug\BooleanLogic168.exe
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\BooleanLogic168\BooleanLogic168\bin\Debug\BooleanLogic168.pdb
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\BooleanLogic168\BooleanLogic168\obj\Debug\BooleanLogic168.csprojAssemblyReference.cache
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\BooleanLogic168\BooleanLogic168\obj\Debug\BooleanLogic168.csproj.CoreCompileInputs.cache
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\BooleanLogic168\BooleanLogic168\obj\Debug\BooleanLogic168.exe
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\BooleanLogic168\BooleanLogic168\obj\Debug\BooleanLogic168.pdb
