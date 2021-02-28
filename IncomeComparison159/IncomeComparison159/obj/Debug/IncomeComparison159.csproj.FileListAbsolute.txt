@@ -1,0 +1,7 @@
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\IncomeComparison159\IncomeComparison159\bin\Debug\IncomeComparison159.exe.config
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\IncomeComparison159\IncomeComparison159\bin\Debug\IncomeComparison159.exe
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\IncomeComparison159\IncomeComparison159\bin\Debug\IncomeComparison159.pdb
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\IncomeComparison159\IncomeComparison159\obj\Debug\IncomeComparison159.csprojAssemblyReference.cache
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\IncomeComparison159\IncomeComparison159\obj\Debug\IncomeComparison159.csproj.CoreCompileInputs.cache
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\IncomeComparison159\IncomeComparison159\obj\Debug\IncomeComparison159.exe
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\IncomeComparison159\IncomeComparison159\obj\Debug\IncomeComparison159.pdb
