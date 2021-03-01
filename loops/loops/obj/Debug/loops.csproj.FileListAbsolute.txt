@@ -1,0 +1,7 @@
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\loops\loops\obj\Debug\loops.csprojAssemblyReference.cache
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\loops\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\loops\loops\bin\Debug\loops.exe.config
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\loops\loops\bin\Debug\loops.exe
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\loops\loops\bin\Debug\loops.pdb
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\loops\loops\obj\Debug\loops.exe
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\loops\loops\obj\Debug\loops.pdb
