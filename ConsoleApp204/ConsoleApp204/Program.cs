@@ -7,6 +7,7 @@ using System.Collections.Generic;
     //I didn't understand the assignment. Does string mean a sentence or a word? Is the user writing a paragraph and my array items are each sentence?
     static void Main(string[] args)
     {
+         Console.WriteLine("----------------- Assignment 1 -------------------");
         string[] stArray1 = {"First","Second","Third","Fourth","Fifth" };
         Console.WriteLine("Please enter some text.");
         string text = Console.ReadLine();
@@ -22,6 +23,7 @@ using System.Collections.Generic;
         }
 
         //assignment 2
+         Console.WriteLine("----------------- Assignment 2 -------------------");
         //this is an infinite loop
         int j = 0;
         while (true)
@@ -33,6 +35,7 @@ using System.Collections.Generic;
         }
         
         //assignment 3
+         Console.WriteLine("----------------- Assignment 3 -------------------");
         int k = 0;
         while (k < 9)
         {
@@ -44,6 +47,8 @@ using System.Collections.Generic;
             Console.WriteLine("I will stop when n is <= -5. Right now, it is " + n);
         }
         //assignment 4
+
+         Console.WriteLine("----------------- Assignment 4 -------------------");
         List<string> stList = new List<string>{"First","Second","Third","Fourth","Fifth" };
         Console.WriteLine("Please type the text you would like to search for.");
         string match = Console.ReadLine();
@@ -62,8 +67,9 @@ using System.Collections.Generic;
             Console.WriteLine("Your input is not on the list");
         }
         //assignment 5
+        Console.WriteLine("----------------- Assignment 5 -------------------");
         List<string> stList1 = new List<string> {"First","Second","Third","Fourth","Fifth","Second" };
-        Console.WriteLine("Please enter a text so I can search my list for it.");
+        Console.WriteLine("Assignment 5: Please enter a text so I can search my list for it.");
         string match1 = Console.ReadLine();
 
         bool found1 = false;
@@ -75,15 +81,15 @@ using System.Collections.Generic;
         {
             if (stList1[i] == match1)
             {
-                if (found1 == true)
-                {
-                    found2 = true;
-                    index2 = i;
-                    Console.WriteLine("The two matching indices are : " + index1 +" and "+index2);
-                    break;
-                }
-                found1 = true;
-                index1 = i;
+                //if (found1 == true)
+                //{
+                    //found2 = true;
+                   // index2 = i;
+                    Console.WriteLine("Your search word : '" + match1+"' is present at index "+  i);
+                    //break;
+                //}
+                    found1 = true;
+               // index1 = i;
                 
             }
         }
@@ -93,32 +99,19 @@ using System.Collections.Generic;
         }
 
         //assignment 6 
+        Console.WriteLine("----------------- Assignment 6 -------------------");
 
         List<string> stList6 = new List<string>{ "First", "Second", "Third", "Fourth", "Fifth", "Second" };
-             
-        foreach (string word6 in stList6)
-        {
-            int index = stList6.IndexOf(word6);
-            Console.WriteLine("index is "+index);
-            bool found6 = false;
-            if(index>0){                          //don't compare the first item 
-                
-                for (int i = 0; i < index; i++)  //compare with the items that are before you
-                {
-                    if(stList6[i] == word6)
-                    {
-                        found6 = true; //first time it just compares to itself.
-                        break;
-                    }
-                }
-            }
-            if (found6)
+        List<string> secondList = new List<string>();
+        foreach(string word6 in stList6){
+            if(secondList.Contains(word6)){
                 Console.WriteLine("This string " + word6 + " has appeared in the list before.");
-            else
-                Console.WriteLine("This string " + word6 + " has not appeared in the list.");
-            
+            }
+            else{
+                 Console.WriteLine("This string " + word6 + " has not appeared in the list yet.");
+            }
+            secondList.Add(word6);
         }
-
         Console.Read();
         
     }
