@@ -1,0 +1,7 @@
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\ConsoleApp204\ConsoleApp204\bin\Debug\ConsoleApp204.exe.config
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\ConsoleApp204\ConsoleApp204\bin\Debug\ConsoleApp204.exe
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\ConsoleApp204\ConsoleApp204\bin\Debug\ConsoleApp204.pdb
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\ConsoleApp204\ConsoleApp204\obj\Debug\ConsoleApp204.csprojAssemblyReference.cache
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\ConsoleApp204\ConsoleApp204\obj\Debug\ConsoleApp204.csproj.CoreCompileInputs.cache
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\ConsoleApp204\ConsoleApp204\obj\Debug\ConsoleApp204.exe
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\ConsoleApp204\ConsoleApp204\obj\Debug\ConsoleApp204.pdb
