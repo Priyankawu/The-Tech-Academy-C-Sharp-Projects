@@ -1,0 +1,7 @@
+C:\Users\sanjeev\source\repos\Assignment226\Assignment226\obj\Debug\Assignment226.csprojAssemblyReference.cache
+C:\Users\sanjeev\source\repos\Assignment226\Assignment226\obj\Debug\Assignment226.csproj.CoreCompileInputs.cache
+C:\Users\sanjeev\source\repos\Assignment226\Assignment226\bin\Debug\Assignment226.exe.config
+C:\Users\sanjeev\source\repos\Assignment226\Assignment226\bin\Debug\Assignment226.exe
+C:\Users\sanjeev\source\repos\Assignment226\Assignment226\bin\Debug\Assignment226.pdb
+C:\Users\sanjeev\source\repos\Assignment226\Assignment226\obj\Debug\Assignment226.exe
+C:\Users\sanjeev\source\repos\Assignment226\Assignment226\obj\Debug\Assignment226.pdb
