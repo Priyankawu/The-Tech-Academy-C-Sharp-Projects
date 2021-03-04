@@ -1,0 +1,7 @@
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Assignment227\Assignment227\bin\Debug\Assignment227.exe.config
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Assignment227\Assignment227\bin\Debug\Assignment227.exe
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Assignment227\Assignment227\bin\Debug\Assignment227.pdb
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Assignment227\Assignment227\obj\Debug\Assignment227.csprojAssemblyReference.cache
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Assignment227\Assignment227\obj\Debug\Assignment227.csproj.CoreCompileInputs.cache
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Assignment227\Assignment227\obj\Debug\Assignment227.exe
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Assignment227\Assignment227\obj\Debug\Assignment227.pdb
