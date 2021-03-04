@@ -1,0 +1,7 @@
+C:\Users\sanjeev\source\repos\CSharp223\CSharp223\bin\Debug\CSharp223.exe.config
+C:\Users\sanjeev\source\repos\CSharp223\CSharp223\bin\Debug\CSharp223.exe
+C:\Users\sanjeev\source\repos\CSharp223\CSharp223\bin\Debug\CSharp223.pdb
+C:\Users\sanjeev\source\repos\CSharp223\CSharp223\obj\Debug\CSharp223.csprojAssemblyReference.cache
+C:\Users\sanjeev\source\repos\CSharp223\CSharp223\obj\Debug\CSharp223.csproj.CoreCompileInputs.cache
+C:\Users\sanjeev\source\repos\CSharp223\CSharp223\obj\Debug\CSharp223.exe
+C:\Users\sanjeev\source\repos\CSharp223\CSharp223\obj\Debug\CSharp223.pdb
