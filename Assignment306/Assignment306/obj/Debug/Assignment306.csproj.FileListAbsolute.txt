@@ -1,0 +1,7 @@
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Assignment306\Assignment306\bin\Debug\Assignment306.exe.config
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Assignment306\Assignment306\bin\Debug\Assignment306.exe
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Assignment306\Assignment306\bin\Debug\Assignment306.pdb
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Assignment306\Assignment306\obj\Debug\Assignment306.csprojAssemblyReference.cache
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Assignment306\Assignment306\obj\Debug\Assignment306.csproj.CoreCompileInputs.cache
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Assignment306\Assignment306\obj\Debug\Assignment306.exe
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Assignment306\Assignment306\obj\Debug\Assignment306.pdb
