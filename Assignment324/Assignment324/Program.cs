@@ -14,11 +14,11 @@ namespace Assignment324
             {
                 Console.WriteLine("Please enter the current day of the week");
                 string sday = Console.ReadLine();
-                
+                //changing the user input string to enum type
                 DaysOfTheWeek myVar = (DaysOfTheWeek)Enum.Parse(typeof(DaysOfTheWeek), sday);
                 Console.WriteLine("The user typed: "+myVar);
             }
-           
+            //throw error if enum's string not entered.
             catch (Exception)
             {
                 Console.WriteLine("Please enter an actual day of the week.");
@@ -28,7 +28,8 @@ namespace Assignment324
             
         }
     }
-
+    
+    //enum enumerates the new data type
     public enum DaysOfTheWeek
     {
         Monday,
