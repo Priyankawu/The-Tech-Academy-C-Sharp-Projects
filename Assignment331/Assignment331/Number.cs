@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Assignment331
 {
-    struct Number
+    struct Number       //Value Type struct -- can't inherit like a class
     {
         public Decimal Amount;
     }
