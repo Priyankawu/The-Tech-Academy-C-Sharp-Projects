@@ -1,0 +1,7 @@
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Assginment383secondtry\Assginment383secondtry\bin\Debug\Assginment383secondtry.exe.config
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Assginment383secondtry\Assginment383secondtry\bin\Debug\Assginment383secondtry.exe
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Assginment383secondtry\Assginment383secondtry\bin\Debug\Assginment383secondtry.pdb
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Assginment383secondtry\Assginment383secondtry\obj\Debug\Assginment383secondtry.csprojAssemblyReference.cache
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Assginment383secondtry\Assginment383secondtry\obj\Debug\Assginment383secondtry.csproj.CoreCompileInputs.cache
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Assginment383secondtry\Assginment383secondtry\obj\Debug\Assginment383secondtry.exe
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Assginment383secondtry\Assginment383secondtry\obj\Debug\Assginment383secondtry.pdb

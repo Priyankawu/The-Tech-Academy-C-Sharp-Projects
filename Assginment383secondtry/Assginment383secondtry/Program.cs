@@ -10,9 +10,14 @@ namespace Assginment383secondtry
     {
         static void Main(string[] args)
         {
-          public const string myConstant = "This is a constant string. You cannot change it in the rest of the code, except here.";
-         Console.WriteLine("What are all these errors?");
+            const string myConstant = "This is a constant string. You cannot change it in the rest of the code, except here.";
+            Console.WriteLine("This is my constant string "+myConstant);
 
-        }
+            var myDateTime = new DateTime();
+            Console.WriteLine(myDateTime);
+            var emp = new Employee("Bob", "Matt", 45, 3000);
+            Console.WriteLine(emp.ToString());
+            Console.ReadLine();
+         }
     }
 }
