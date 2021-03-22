@@ -1,0 +1,7 @@
+C:\Users\sanjeev\source\repos\Challenges_March\March2021\ChallengesDec10\ChallengesDec10\obj\Debug\ChallengesDec10.csprojAssemblyReference.cache
+C:\Users\sanjeev\source\repos\Challenges_March\March2021\ChallengesDec10\ChallengesDec10\obj\Debug\ChallengesDec10.csproj.CoreCompileInputs.cache
+C:\Users\sanjeev\source\repos\Challenges_March\March2021\ChallengesDec10\ChallengesDec10\bin\Debug\ChallengesDec10.exe.config
+C:\Users\sanjeev\source\repos\Challenges_March\March2021\ChallengesDec10\ChallengesDec10\bin\Debug\ChallengesDec10.exe
+C:\Users\sanjeev\source\repos\Challenges_March\March2021\ChallengesDec10\ChallengesDec10\bin\Debug\ChallengesDec10.pdb
+C:\Users\sanjeev\source\repos\Challenges_March\March2021\ChallengesDec10\ChallengesDec10\obj\Debug\ChallengesDec10.exe
+C:\Users\sanjeev\source\repos\Challenges_March\March2021\ChallengesDec10\ChallengesDec10\obj\Debug\ChallengesDec10.pdb
