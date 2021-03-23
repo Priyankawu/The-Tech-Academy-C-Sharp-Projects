@@ -1,0 +1,7 @@
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Challenges_March\March2021\ChallengeMar22\ChallengeMar22\obj\Debug\ChallengeMar22.csprojAssemblyReference.cache
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Challenges_March\March2021\ChallengeMar22\ChallengeMar22\obj\Debug\ChallengeMar22.csproj.CoreCompileInputs.cache
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Challenges_March\March2021\ChallengeMar22\ChallengeMar22\bin\Debug\ChallengeMar22.exe.config
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Challenges_March\March2021\ChallengeMar22\ChallengeMar22\bin\Debug\ChallengeMar22.exe
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Challenges_March\March2021\ChallengeMar22\ChallengeMar22\bin\Debug\ChallengeMar22.pdb
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Challenges_March\March2021\ChallengeMar22\ChallengeMar22\obj\Debug\ChallengeMar22.exe
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Challenges_March\March2021\ChallengeMar22\ChallengeMar22\obj\Debug\ChallengeMar22.pdb
