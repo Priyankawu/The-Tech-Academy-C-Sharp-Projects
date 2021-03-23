@@ -37,13 +37,17 @@ namespace ChallengeMar22
 
         //moveZeros([]) => returns[1,4,5,6,0,0]
         //moveZeros([]) => returns[false,1,1,2,1,3,"a",0,0]
+
+
         //Object[] can have different types
+        //This method pulls the 0's from the array and puts them in the end. 
         public static Object[] findZeros(Object[] diffTypes)
         {
             List<Object> zeros = new List<Object>();
             List<Object> rest = new List<object>();
             Object[] result = new Object[diffTypes.Length];
             Object z = 0;
+            // This loop adds 0's to the zeros list and rest to the rest list.
             foreach(Object findZero in diffTypes)
             {
                 
@@ -59,11 +63,13 @@ namespace ChallengeMar22
                 }
             }
             //Console.WriteLine("Length of result: " + result.Length + "\n length of rest " + rest.Count);
+            //copy the rest list into the result array and then add the zeros list to the result array.
             (rest.ToArray()).CopyTo(result, 0);
             (zeros.ToArray()).CopyTo(result, rest.Count);
             return result;
         }
 
+        // This method prints an object array
         public static void printArray(Object[] arr)
         {
            
