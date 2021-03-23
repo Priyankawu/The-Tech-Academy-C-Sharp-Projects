@@ -16,12 +16,16 @@ namespace Assignment369
             Console.WriteLine("Please enter a number that I will use to add hours to the current time.");
 
             int addHours = Convert.ToInt32(Console.ReadLine());
-            int hour = now.Hour+addHours;
-            int minutes = now.Minute;
-            int seconds = now.Second;
+            DateTime later = now.AddHours(addHours);
 
-            Console.WriteLine("The time after adding your hours is:\n Hours: " + hour + "\n Minutes: " + minutes + "\n Seconds: " + seconds);
-            Console.WriteLine(hour + ":" + minutes + ":" + seconds);
+            Console.WriteLine("The tiem after adding your hours is: ", later);
+            //int hour = now.Hour+addHours;
+            //now.Hour = hour;
+            //int minutes = now.Minute;
+            //int seconds = now.Second;
+
+            //Console.WriteLine("The time after adding your hours is:\n Hours: " + hour + "\n Minutes: " + minutes + "\n Seconds: " + seconds);
+            //Console.WriteLine(hour + ":" + minutes + ":" + seconds);
 
             //DateTime modified = new DateTime(2021, 3, 13, hour, minutes, seconds);   //?? how do I print the time from this easily
             Console.Read();

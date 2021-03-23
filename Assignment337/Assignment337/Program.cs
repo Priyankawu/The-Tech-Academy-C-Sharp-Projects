@@ -26,6 +26,15 @@ namespace Assignment337
 
             List<Employee> ids = empList.FindAll(x => x.Id > 5);
 
+            foreach(Employee joe in joes)
+            {
+                Console.WriteLine("Confusion: "+joe.firstName);
+            }
+            foreach(Employee id in ids)
+            {
+                Console.WriteLine("Confusion: " + id.Id);
+            }
+
             //lambda way of condensing code
             foreach (Employee joe in empList.FindAll(x => x.firstName == "Joe")) { 
                 Console.WriteLine(joe.firstName);

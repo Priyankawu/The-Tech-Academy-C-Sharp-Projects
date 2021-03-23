@@ -21,11 +21,23 @@ namespace Casino.TwentyOne
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
             Dealer.Deck.Shuffle();
-            Console.WriteLine("Place your bet!");
+            //Console.WriteLine("Place your bet!");
             
             foreach (Player player in Players)
             {
-                int bet = Convert.ToInt32(Console.ReadLine());
+                bool validAnswer = false;
+                int bet = 0;
+                while (!validAnswer)
+                {
+                    Console.WriteLine("Place your bet!");
+                    validAnswer = int.TryParse(Console.ReadLine(), out bet);    //TryParse returns bool and pushes value thru 'out'
+                    if (!validAnswer) { Console.WriteLine("Please place bet in digits only, no decimals."); }
+                }
+                if (bet < 0)
+                {
+                    throw new FraudException("Security, kick this person out!");
+                }
+                //int bet = Convert.ToInt32(Console.ReadLine()); //this could cause error, so see how we fixed it on top by int.TryParse
                 bool successfullyBet = player.Bet(bet);
                 if (!successfullyBet)
                 {
@@ -96,7 +108,7 @@ namespace Casino.TwentyOne
                         Console.WriteLine("{0} Busted! You lose your bet of {1}. Your balance is now {2}.", player.Name, Bets[player], player.Balance);
                         Console.WriteLine("Do you want to play again?");
                         answer = Console.ReadLine().ToLower();
-                        if(answer == "yes" || answer == "yeah")
+                        if(answer == "yes" || answer == "yeah" || answer == "y")
                         {
                             player.isActivelyPlaying = true;
                         }
@@ -147,12 +159,12 @@ namespace Casino.TwentyOne
                 }
                 else
                 {
-                    Console.WriteLine("Dealer winds {0}!", Bets[player]);
+                    Console.WriteLine("Dealer wins {0}!", Bets[player]);
                     Dealer.Balance += Bets[player];
                 }
                 Console.WriteLine("Play again?");
                 string answer = Console.ReadLine().ToLower();
-                if (answer == "yes" || answer == "yeah")
+                if (answer == "yes" || answer == "yeah" || answer == "y")
                 {
                     player.isActivelyPlaying = true;
                 }

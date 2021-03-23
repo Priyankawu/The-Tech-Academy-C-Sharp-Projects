@@ -8,7 +8,7 @@ namespace Assignment383
 {
     class Employee
     {
-
+        //Chaining constructors
         public Employee(string fname, string lname, int id) : this(fname,lname,id,10000)
         {
             

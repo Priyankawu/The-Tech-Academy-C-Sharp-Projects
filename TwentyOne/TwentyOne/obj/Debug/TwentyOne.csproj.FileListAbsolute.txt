@@ -1,7 +1,10 @@
 C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
 C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
 C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
 C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csprojAssemblyReference.cache
 C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
 C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
