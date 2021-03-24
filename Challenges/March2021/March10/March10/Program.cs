@@ -11,7 +11,8 @@ namespace March10
     {
          static void Main(string[] args)
             {
-                topThreeWords("a A a b d d d d e e");
+                printArray(topThreeWords("a A a b d d d d e e"));
+                printArray(topThreeWords("a a a b c c d d d d e e e e e"));
                 Console.ReadLine();
             }
 
@@ -28,8 +29,9 @@ namespace March10
             //empty array if a text contains no words.<br>
             //Example:<br>
             //topThreeWords("a a a b c c d d d d e e e e e") => ['e', 'd', 'a']
-            public static void topThreeWords(string input)
+            public static char[] topThreeWords(string input)
             {
+                char[] result = new char[3];
                 Regex rgx = new Regex("\\s+");
                 string replacement = "";
                 input = rgx.Replace(input, replacement);
@@ -45,13 +47,43 @@ namespace March10
                     {
                         d.Add(c, 0);
                     }
-                    if (d.ContainsKey(c))
+                    else
+                    {
                         d[c] = d[c] + 1;
+                    }
                 }
                 // I have the dictionary with no duplicate values and  the count of the characters.
-                d.ToList().ForEach(x => Console.WriteLine(x.Key + " " + x.Value));
+                //d.ToList().ForEach(x => Console.WriteLine(x.Key + " " + x.Value));
 
+            //long way of finding max
+           
+            for (int i = 0; i < 3; i++) {
+                int maxValue = 0;   //not good I know, dummy placeholder values
+                char maxKey = 'a'; //not good I know, dummy palceholder values
+                foreach (KeyValuePair<char, int> kv in d)
+                {
+                    //Console.WriteLine("kv.Value > maxValue " + kv.Value + " " + maxValue);
+                    if (kv.Value > maxValue)
+                    {
+                        maxValue = kv.Value;
+                        maxKey = kv.Key;
+                    }
+                }
+               // Console.WriteLine(maxKey);
+                result[i] = maxKey;
+                d.Remove(maxKey);
             }
+            return result;
+            }
+
+        public static void printArray(char[] result)
+        {
+            foreach( char c in result)
+            {
+                Console.Write(c + " ");
+            }
+            Console.WriteLine();
+        }
         
     }
 }
