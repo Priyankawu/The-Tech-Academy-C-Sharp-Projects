@@ -40,7 +40,7 @@ namespace March10
 
                 //create a dictionary to hold non-duplicate chars as keys and the count as the value
                 var d = new Dictionary<char, int>();
-
+                //Filling in the dictionary
                 foreach (char c in input)
                 {
                     if (!d.ContainsKey(c))
@@ -55,7 +55,7 @@ namespace March10
                 // I have the dictionary with no duplicate values and  the count of the characters.
                 //d.ToList().ForEach(x => Console.WriteLine(x.Key + " " + x.Value));
 
-            //long way of finding max
+            //long way of finding top three max occuring keys
            
             for (int i = 0; i < 3; i++) {
                 int maxValue = 0;   //not good I know, dummy placeholder values
@@ -76,6 +76,7 @@ namespace March10
             return result;
             }
 
+        //This method prints the char array supplied to it.
         public static void printArray(char[] result)
         {
             foreach( char c in result)
