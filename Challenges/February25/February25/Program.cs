@@ -10,8 +10,10 @@ namespace February25
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(parseTime(86399));
-            Console.WriteLine(parseTime(30));
+            //Console.WriteLine(parseTime(86399));
+           // Console.WriteLine(parseTime(360000));
+
+            FizzBuzz();
 
             Console.Read();
         }
@@ -48,9 +50,38 @@ namespace February25
                 str_seconds = allSeconds.ToString();
             }
 
-            strTime = str_hours + ":" + str_minutes + ":" + str_seconds;
+            string strTime = str_hours + ":" + str_minutes + ":" + str_seconds;
 
             return strTime;
+        }
+
+        // Challenge 2  (aka the fizzbuzz test)
+
+        //Write a program that prints the numbers from 1 to 100. But for multiples of 
+        // three print “Fizz” instead of the number and for the multiples of five print “Buzz”.
+        // For numbers that are multiples of both three and five print “FizzBuzz”.
+
+        public static void FizzBuzz()
+        {
+            for(int i = 1; i<101; i++)
+            {
+                if ((i % 15) == 0)
+                {
+                    Console.WriteLine("FizzBuzz");
+                }
+                else if (i % 3 == 0)
+                {
+                    Console.WriteLine("Fizz");
+                }
+                else if ((i % 5) == 0)
+                {
+                    Console.WriteLine("Buzz");
+                }
+                else
+                {
+                    Console.WriteLine(i);
+                }
+            }
         }
     }
 }

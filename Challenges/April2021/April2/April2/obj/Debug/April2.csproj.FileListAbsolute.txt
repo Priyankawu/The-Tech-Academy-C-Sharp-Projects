@@ -1,0 +1,7 @@
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Challenges\April2021\April2\April2\bin\Debug\April2.exe.config
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Challenges\April2021\April2\April2\bin\Debug\April2.exe
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Challenges\April2021\April2\April2\bin\Debug\April2.pdb
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Challenges\April2021\April2\April2\obj\Debug\April2.csprojAssemblyReference.cache
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Challenges\April2021\April2\April2\obj\Debug\April2.csproj.CoreCompileInputs.cache
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Challenges\April2021\April2\April2\obj\Debug\April2.exe
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\Challenges\April2021\April2\April2\obj\Debug\April2.pdb
