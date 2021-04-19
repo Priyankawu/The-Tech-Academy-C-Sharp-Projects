@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B5tkBhpg6kXTVfvjhkT6rlEoxHb/78w6hcvHMMeBOph9Kfsctee3LJ02YYog9qp6oxMBT04SxXy7+HjB31wpjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sanjeev\\source\\repos\\The-Tech-Academy-C-Sharp-Projects\\ChallengesAssignments\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sanjeev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
