@@ -42,6 +42,7 @@ namespace CarInsurance.Controllers
             return View();
         }
 
+        //storing in the database ??
         // POST: Insuree/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
@@ -51,6 +52,8 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                //calls the "calculateQuote" function to determine the Quote price
+                insuree.Quote = calculateQuote(insuree);
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -85,6 +88,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = calculateQuote(insuree);
                 db.Entry(insuree).State = EntityState.Modified;
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -170,8 +174,8 @@ namespace CarInsurance.Controllers
                 insureeVm.FirstName = insuree.FirstName;
                 insureeVm.LastName = insuree.LastName;
                 insureeVm.EmailAddress = insuree.EmailAddress;
-                decimal quote = calculateQuote(insuree);
-                insureeVm.quote = quote;
+               // decimal quote = calculateQuote(insuree);
+                insureeVm.quote = insuree.Quote;
                 insureeVms.Add(insureeVm);
             }
             return View(insureeVms);
