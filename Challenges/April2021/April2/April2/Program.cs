@@ -12,6 +12,7 @@ namespace April2
         {
             //sentenceSort("a || b in it");
             string before = " Hello my name is Forest and I love love love to code";
+            before = " Hello my name my love my my Forest is to code love love I is";
             Console.WriteLine(before);
             Console.WriteLine("THE SORTED SENTENCE IS: \n "+sentenceSort(before));
             Console.Read();
@@ -23,6 +24,7 @@ namespace April2
             //split string into two strings - one with lowercase starting words, other with uppercase starting words
             string lower = null;
             string upper = "";
+            //break string to string array
             string [] strArray = input.Split(' ');
             for(int i = 0; i<strArray.Length; i++)
             {
@@ -60,8 +62,7 @@ namespace April2
             int first = 0;
             int smallestIndex = -1;
             List<int> indices = new List<int>();
-            
-            
+                        
             for (int i = 0; i < word1.Length - 1; i++)
             {
                 char[] current = word1[i].ToCharArray();
@@ -74,8 +75,6 @@ namespace April2
                     char[] next = word1[j].ToCharArray();
                     if (next[first] < smallest)
                     {
-                        //smallest = next[first];
-                        //smallestIndex = j;
                         int count = indices.Count;
                         if (count == 0)
                         {

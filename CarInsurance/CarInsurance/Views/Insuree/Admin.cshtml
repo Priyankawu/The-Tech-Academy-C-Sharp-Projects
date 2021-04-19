@@ -1,0 +1,22 @@
+﻿
+@using CarInsurance.ViewModels
+@model List<InsureeVM>
+
+@foreach(var insuree in Model){
+
+    <div class="row">
+        <div class="col">
+            @insuree.FirstName;
+        </div>
+        <div class="col">
+            @insuree.LastName;
+        </div>
+        <div class="col">
+            @insuree.EmailAddress;
+        </div>
+        
+
+    </div>
+}
+
+
