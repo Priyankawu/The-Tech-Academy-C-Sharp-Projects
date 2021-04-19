@@ -172,6 +172,7 @@ namespace CarInsurance.Controllers
                 insureeVm.EmailAddress = insuree.EmailAddress;
                 decimal quote = calculateQuote(insuree);
                 insureeVm.quote = quote;
+                insureeVms.Add(insureeVm);
             }
             return View(insureeVms);
 
