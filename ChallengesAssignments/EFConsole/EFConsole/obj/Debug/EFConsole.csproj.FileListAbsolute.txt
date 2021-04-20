@@ -1,0 +1,12 @@
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\ChallengesAssignments\EFConsole\EFConsole\bin\Debug\EFConsole.exe.config
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\ChallengesAssignments\EFConsole\EFConsole\bin\Debug\EFConsole.exe
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\ChallengesAssignments\EFConsole\EFConsole\bin\Debug\EFConsole.pdb
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\ChallengesAssignments\EFConsole\EFConsole\bin\Debug\EntityFramework.dll
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\ChallengesAssignments\EFConsole\EFConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\ChallengesAssignments\EFConsole\EFConsole\bin\Debug\EntityFramework.xml
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\ChallengesAssignments\EFConsole\EFConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\ChallengesAssignments\EFConsole\EFConsole\obj\Debug\EFConsole.csprojAssemblyReference.cache
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\ChallengesAssignments\EFConsole\EFConsole\obj\Debug\EFConsole.csproj.CoreCompileInputs.cache
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\ChallengesAssignments\EFConsole\EFConsole\obj\Debug\EFConsole.csproj.CopyComplete
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\ChallengesAssignments\EFConsole\EFConsole\obj\Debug\EFConsole.exe
+C:\Users\sanjeev\source\repos\The-Tech-Academy-C-Sharp-Projects\ChallengesAssignments\EFConsole\EFConsole\obj\Debug\EFConsole.pdb
