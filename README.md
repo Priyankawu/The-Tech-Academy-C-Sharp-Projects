@@ -1,6 +1,3 @@
-###### The Tech Academy C Sharp Projects
-
-
 # C# Projects   
 
 These are some small projects I made using C# and .NET Framework.
@@ -8,9 +5,9 @@ These are some small projects I made using C# and .NET Framework.
 ## Projects:
 *	**Twenty One Card Game**
 *	**Car Insurance**
-*	**Code First Database 
-*	**News Letter
-*	**Sorted Sentence
+*	**Code First Database**
+*	**News Letter**
+*	**Sorted Sentence**
 
 **Twenty One Card Game**
 
